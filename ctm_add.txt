@@ -1,0 +1,4 @@
+Output:
+ CONDITION:NTCAN-CDC802AMA2-0190 DATE:0712 added
+
+Result:	Success.
